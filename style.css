@@ -1,12 +1,13 @@
-.blue-1{
+.blue-1, h3{
     color:#93BFCF;
     font-weight: 400;
 }
 
-.blue-2{
+.blue-2, h2{
    color: #8dc6ff;
    font-weight: 600;
 }
+
 
 .blue-bold{
     color: blue;
