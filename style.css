@@ -1,0 +1,30 @@
+.blue-1{
+    color:#93BFCF;
+    font-weight: 400;
+}
+
+.blue-2{
+   color: #8dc6ff;
+   font-weight: 600;
+}
+
+.blue-bold{
+    color: blue;
+    font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+div > ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width: 992px){
+    .container{
+        width: fit-content;
+    }
+}
