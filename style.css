@@ -24,14 +24,19 @@ div > ul{
     padding: 0px;
 }
 
-@media (min-width: 992px){
-    .container{
-        width: fit-content;
-    }
-}
+.container{
+    justify-content: center;
+    width:auto;
+ }
 
 .center{
     display:flex;
     justify-content: center;
     font-size: xx-large;
+}
+
+.img{
+    display: block;
+    justify-content: center;
+    align-items: center;
 }
