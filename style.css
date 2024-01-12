@@ -29,3 +29,9 @@ div > ul{
         width: fit-content;
     }
 }
+
+.center{
+    display:flex;
+    justify-content: center;
+    font-size: xx-large;
+}
