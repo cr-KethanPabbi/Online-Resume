@@ -27,6 +27,7 @@ div > ul{
 .container{
     justify-content: center;
     width:auto;
+    font-family: 'Helvetica', serif;
  }
 
 .center{
@@ -35,8 +36,3 @@ div > ul{
     font-size: xx-large;
 }
 
-.img{
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
